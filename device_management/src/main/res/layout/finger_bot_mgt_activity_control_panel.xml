@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
-<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     android:layout_width="match_parent"
-    android:layout_height="match_parent"
-    android:background="@color/f8f8f8">
+    android:layout_height="wrap_content"
+    android:background="@color/f8f8f8"
+    android:orientation="vertical">
 
 
     <com.google.android.material.appbar.AppBarLayout
@@ -27,14 +28,19 @@
     </com.google.android.material.appbar.AppBarLayout>
 
 
-    <androidx.core.widget.NestedScrollView
+    <ScrollView
         android:layout_width="match_parent"
-        android:layout_height="match_parent"
-        app:layout_behavior="@string/appbar_scrolling_view_behavior">
+        android:layout_height="wrap_content"
+        android:paddingBottom="20dp"
+        android:fillViewport="true"
+        >
 
     <FrameLayout
         android:layout_width="match_parent"
-        android:layout_height="match_parent">
+        android:layout_height="wrap_content"
+        android:paddingBottom="20dp"
+        >
+
         <LinearLayout
             android:layout_width="wrap_content"
             android:layout_height="16dp"
@@ -58,13 +64,12 @@
                 android:textSize="12sp" />
         </LinearLayout>
 
-
         <ImageButton
             android:id="@+id/btn_background"
             android:layout_width="233dp"
             android:layout_height="233dp"
             android:layout_gravity="center_horizontal"
-            android:layout_marginVertical="85dp"
+            android:layout_marginTop="85dp"
             android:background="@drawable/btn_background" />
 
         <ImageButton
@@ -72,7 +77,7 @@
             android:layout_width="50dp"
             android:layout_height="40dp"
             android:layout_gravity="center_horizontal"
-            android:layout_marginVertical="176dp"
+            android:layout_marginTop="176dp"
             android:background="@drawable/btn_select"
             android:saveEnabled="false" />
 
@@ -81,15 +86,14 @@
             android:layout_width="60dp"
             android:layout_height="wrap_content"
             android:layout_gravity="center_horizontal"
-            android:layout_marginVertical="226dp"
+            android:layout_marginTop="226dp"
             android:text="@string/btn_switch_Off"
             android:textSize="12sp" />
-
 
         <LinearLayout
             android:layout_width="match_parent"
             android:layout_height="128dp"
-            android:layout_marginVertical="331dp"
+            android:layout_marginTop="331dp"
             android:layout_marginLeft="8dp"
             android:layout_marginRight="8dp"
             android:background="@drawable/radius_background"
@@ -160,7 +164,7 @@
         <LinearLayout
             android:layout_width="match_parent"
             android:layout_height="128dp"
-            android:layout_marginVertical="469dp"
+            android:layout_marginTop="469dp"
             android:layout_marginLeft="8dp"
             android:layout_marginRight="8dp"
             android:background="@drawable/radius_background"
@@ -229,11 +233,10 @@
             </LinearLayout>
         </LinearLayout>
 
-
         <LinearLayout
             android:layout_width="match_parent"
             android:layout_height="72dp"
-            android:layout_marginVertical="607dp"
+            android:layout_marginTop="607dp"
             android:layout_marginLeft="8dp"
             android:layout_marginRight="8dp"
             android:background="@drawable/radius_background"
@@ -271,11 +274,10 @@
                 android:src="@drawable/right" />
         </LinearLayout>
 
-
         <LinearLayout
             android:layout_width="match_parent"
             android:layout_height="72dp"
-            android:layout_marginVertical="689dp"
+            android:layout_marginTop="689dp"
             android:layout_marginLeft="8dp"
             android:layout_marginRight="8dp"
             android:background="@drawable/radius_background"
@@ -311,7 +313,7 @@
         <LinearLayout
             android:layout_width="match_parent"
             android:layout_height="59dp"
-            android:layout_marginVertical="763dp"
+            android:layout_marginTop="763dp"
             android:layout_marginLeft="8dp"
             android:layout_marginRight="8dp"
             android:background="@drawable/radius_background"
@@ -351,9 +353,22 @@
                 android:src="@drawable/right" />
 
         </LinearLayout>
+        <Button
+            android:id="@+id/btnRemove"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="850dp"
+            android:text="@string/device_mgt_remove" />
 
-
+        <Button
+            android:id="@+id/btnReset"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center_horizontal"
+            android:layout_marginTop="920dp"
+            android:text="@string/device_mgt_reset" />
     </FrameLayout>
-    </androidx.core.widget.NestedScrollView>
+    </ScrollView>
 
-</FrameLayout>
+</LinearLayout>

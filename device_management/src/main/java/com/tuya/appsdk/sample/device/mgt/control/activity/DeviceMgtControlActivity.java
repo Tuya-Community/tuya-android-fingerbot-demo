@@ -96,7 +96,6 @@ public class DeviceMgtControlActivity extends AppCompatActivity {
                         finish();
                     }
                 });
-
             }
         });
 
@@ -118,7 +117,6 @@ public class DeviceMgtControlActivity extends AppCompatActivity {
                     }
                 });
             }
-
         });
 
         TextView tvDeviceName = findViewById(R.id.tvDeviceName);

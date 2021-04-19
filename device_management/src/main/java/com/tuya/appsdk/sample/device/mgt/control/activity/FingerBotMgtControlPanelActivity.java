@@ -84,7 +84,46 @@ public class FingerBotMgtControlPanelActivity extends AppCompatActivity {
             }
         });
 
+        findViewById(R.id.btnReset).setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                // device reset factory
+                mDevice.resetFactory(new IResultCallback() {
+                    @Override
+                    public void onError(String errorCode, String errorMsg) {
+                        Toast.makeText(FingerBotMgtControlPanelActivity.this,
+                                "Activate error-->" + errorMsg,
+                                Toast.LENGTH_LONG
+                        ).show();
+                    }
 
+                    @Override
+                    public void onSuccess() {
+                        finish();
+                    }
+                });
+            }
+        });
+
+        findViewById(R.id.btnRemove).setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+                mDevice.removeDevice(new IResultCallback() {
+                    @Override
+                    public void onError(String errorCode, String errorMsg) {
+                        Toast.makeText(FingerBotMgtControlPanelActivity.this,
+                                "Activate error-->" + errorMsg,
+                                Toast.LENGTH_LONG
+                        ).show();
+                    }
+
+                    @Override
+                    public void onSuccess() {
+                        finish();
+                    }
+                });
+            }
+        });
 
         SeekBar seekBar_down = findViewById(R.id.seek_bar_down);
         TextView tv_down = findViewById(R.id.tv_bar_down);
