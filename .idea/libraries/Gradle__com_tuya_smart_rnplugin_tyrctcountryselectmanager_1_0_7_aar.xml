@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.tuya.smart.rnplugin:tyrctcountryselectmanager:1.0.7@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/794b40aa315f3dd4cdbd7230d80b11bf/jetified-tyrctcountryselectmanager-1.0.7/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/794b40aa315f3dd4cdbd7230d80b11bf/jetified-tyrctcountryselectmanager-1.0.7/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/794b40aa315f3dd4cdbd7230d80b11bf/jetified-tyrctcountryselectmanager-1.0.7/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.tuya.smart.rnplugin/tyrctcountryselectmanager/1.0.7/b7a53c68f0933cfdeae44227f900631b7bab5b77/tyrctcountryselectmanager-1.0.7-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

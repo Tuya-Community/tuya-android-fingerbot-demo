@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: com.tuya.smart:tuyasmart-bluetooth:3.25.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/46941f6954b58adc6305d2e2418c8401/jetified-tuyasmart-bluetooth-3.25.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/46941f6954b58adc6305d2e2418c8401/jetified-tuyasmart-bluetooth-3.25.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/46941f6954b58adc6305d2e2418c8401/jetified-tuyasmart-bluetooth-3.25.0/AndroidManifest.xml" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/46941f6954b58adc6305d2e2418c8401/jetified-tuyasmart-bluetooth-3.25.0/jars/libs/r-classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.tuya.smart/tuyasmart-bluetooth/3.25.0/3764a7c6a607d9c058070f1ec2e7c9fbf030672/tuyasmart-bluetooth-3.25.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

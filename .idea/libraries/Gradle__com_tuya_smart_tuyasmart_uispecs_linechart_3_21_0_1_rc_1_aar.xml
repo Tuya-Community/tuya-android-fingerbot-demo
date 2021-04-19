@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: com.tuya.smart:tuyasmart-uispecs-linechart:3.21.0.1-rc.1@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/d2c9f2ea46deefbb3ca36cec5d92372b/jetified-tuyasmart-uispecs-linechart-3.21.0.1-rc.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/d2c9f2ea46deefbb3ca36cec5d92372b/jetified-tuyasmart-uispecs-linechart-3.21.0.1-rc.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/d2c9f2ea46deefbb3ca36cec5d92372b/jetified-tuyasmart-uispecs-linechart-3.21.0.1-rc.1/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

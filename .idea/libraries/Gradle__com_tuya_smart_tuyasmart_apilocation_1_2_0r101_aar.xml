@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.tuya.smart:tuyasmart-apilocation:1.2.0r101@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/65e79d6b26daf54bdff9a44f52517ba4/jetified-tuyasmart-apilocation-1.2.0r101/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/65e79d6b26daf54bdff9a44f52517ba4/jetified-tuyasmart-apilocation-1.2.0r101/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/65e79d6b26daf54bdff9a44f52517ba4/jetified-tuyasmart-apilocation-1.2.0r101/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.tuya.smart/tuyasmart-apilocation/1.2.0r101/b7a53c68f0933cfdeae44227f900631b7bab5b77/tuyasmart-apilocation-1.2.0r101-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

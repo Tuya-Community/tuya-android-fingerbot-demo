@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.tuya.smart:tuyasmart-TuyaRNApi:5.31.2-rc.4@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/f4c4ff85da7b22a2a2e6705302ab6122/jetified-tuyasmart-TuyaRNApi-5.31.2-rc.4/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/f4c4ff85da7b22a2a2e6705302ab6122/jetified-tuyasmart-TuyaRNApi-5.31.2-rc.4/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/f4c4ff85da7b22a2a2e6705302ab6122/jetified-tuyasmart-TuyaRNApi-5.31.2-rc.4/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.tuya.smart/tuyasmart-TuyaRNApi/5.31.2-rc.4/b7a53c68f0933cfdeae44227f900631b7bab5b77/tuyasmart-TuyaRNApi-5.31.2-rc.4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

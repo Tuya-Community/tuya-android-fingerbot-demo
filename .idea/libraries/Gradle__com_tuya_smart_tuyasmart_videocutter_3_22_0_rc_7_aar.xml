@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.tuya.smart:tuyasmart-videocutter:3.22.0-rc.7@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/288348b35b384fa45cd89cc92f52e82c/jetified-tuyasmart-videocutter-3.22.0-rc.7/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/288348b35b384fa45cd89cc92f52e82c/jetified-tuyasmart-videocutter-3.22.0-rc.7/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/288348b35b384fa45cd89cc92f52e82c/jetified-tuyasmart-videocutter-3.22.0-rc.7/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.tuya.smart/tuyasmart-videocutter/3.22.0-rc.7/b7a53c68f0933cfdeae44227f900631b7bab5b77/tuyasmart-videocutter-3.22.0-rc.7-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

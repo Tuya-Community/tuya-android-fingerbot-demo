@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.tuya.smart.rnplugin:tyrctcameraplayer:1.2.4.1-rc.7@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/310b68bba99b691059241a01e04f2e2a/jetified-tyrctcameraplayer-1.2.4.1-rc.7/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/310b68bba99b691059241a01e04f2e2a/jetified-tyrctcameraplayer-1.2.4.1-rc.7/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/310b68bba99b691059241a01e04f2e2a/jetified-tyrctcameraplayer-1.2.4.1-rc.7/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.tuya.smart.rnplugin/tyrctcameraplayer/1.2.4.1-rc.7/b7a53c68f0933cfdeae44227f900631b7bab5b77/tyrctcameraplayer-1.2.4.1-rc.7-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

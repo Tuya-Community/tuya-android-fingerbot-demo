@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.tuya.smart.rnplugin:tyrctnumberpicker:1.0.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/ff12cc1dc9e18d65172f307049b344b5/jetified-tyrctnumberpicker-1.0.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/ff12cc1dc9e18d65172f307049b344b5/jetified-tyrctnumberpicker-1.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/ff12cc1dc9e18d65172f307049b344b5/jetified-tyrctnumberpicker-1.0.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.tuya.smart.rnplugin/tyrctnumberpicker/1.0.0/b7a53c68f0933cfdeae44227f900631b7bab5b77/tyrctnumberpicker-1.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

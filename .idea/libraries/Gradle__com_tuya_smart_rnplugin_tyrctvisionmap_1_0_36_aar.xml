@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.tuya.smart.rnplugin:tyrctvisionmap:1.0.36@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/6df2a7f050a7ea6bce548cbef096be50/jetified-tyrctvisionmap-1.0.36/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/6df2a7f050a7ea6bce548cbef096be50/jetified-tyrctvisionmap-1.0.36/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/6df2a7f050a7ea6bce548cbef096be50/jetified-tyrctvisionmap-1.0.36/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.tuya.smart.rnplugin/tyrctvisionmap/1.0.36/b7a53c68f0933cfdeae44227f900631b7bab5b77/tyrctvisionmap-1.0.36-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
