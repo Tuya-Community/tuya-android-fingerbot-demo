@@ -15,10 +15,10 @@
 
         <meta-data
             android:name="TUYA_SMART_APPKEY"
-            android:value="4mraaw5pve9jys3pk5kd" />
+            android:value="Your App Key" />
         <meta-data
             android:name="TUYA_SMART_SECRET"
-            android:value="gm94vap8yk4kmssaxwqvd3r9p5kr49ns" />
+            android:value="Your App Secret" />
 
         <!--        Main        -->
         <activity

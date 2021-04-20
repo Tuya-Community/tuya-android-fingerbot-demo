@@ -8,7 +8,7 @@ android {
     buildToolsVersion "29.0.3"
 
     defaultConfig {
-        applicationId "zhuangang.android.app"
+        applicationId "Your application ID"
         minSdkVersion 21
         targetSdkVersion 29
         versionCode 1
