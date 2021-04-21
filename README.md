@@ -22,7 +22,7 @@ The Tuya Finger Robot demo is based on the Tuya Home SDK and has improved the fi
 
 ### Documentation / API Reference / Tutorials / Sample Code
 
-![F8FC4737660650B0039B943C145938ED](https://images.tuyacn.com/app/tonghui/sample/finger/4.jpg)
+![F8FC4737660650B0039B943C145938ED](https://images.tuyacn.com/app/tonghui/sample/finger/4.png)
 
 ![企业微信截图_ed736bd9-c803-41d3-ad8b-5b41842869a2](https://images.tuyacn.com/app/tonghui/sample/finger/1.png)
 
