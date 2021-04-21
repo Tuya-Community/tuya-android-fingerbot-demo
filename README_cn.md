@@ -22,7 +22,7 @@
 
 ### 界面展示，API接口文档
 
-![C4AEF02A34A7754AAC442FBAFFFA0F7F](https://images.tuyacn.com/app/tonghui/sample/finger/3.jpg)
+![C4AEF02A34A7754AAC442FBAFFFA0F7F](https://images.tuyacn.com/app/tonghui/sample/finger/3.png)
 
 ![企业微信截图_5721b3b4-eddc-4c6a-8bad-6b5f90cd4db4](https://images.tuyacn.com/app/tonghui/sample/finger/2.png)
 
