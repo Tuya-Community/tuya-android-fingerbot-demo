@@ -2,7 +2,7 @@
 
 <resources>
 
-    <string name="app_name">Tuya SDK</string>
+    <string name="app_name">Fingerbot Sample</string>
 
     <string name="user_guide_title">涂鸦SDK例子</string>
     <string name="user_login">登录</string>

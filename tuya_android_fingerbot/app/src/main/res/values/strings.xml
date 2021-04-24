@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">Tuya SDK</string>
+    <string name="app_name">Fingerbot Sample</string>
 
     <string name="user_guide_title">Tuya SDK Sample</string>
     <string name="user_login">Login</string>
