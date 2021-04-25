@@ -1,6 +1,6 @@
 ### Tuya Fingerbot Demo
 
-This topic describes the Tuya Fingerbot demo for Android.
+This file describes the Tuya Fingerbot demo for Android.
 
 ### Overview
 
