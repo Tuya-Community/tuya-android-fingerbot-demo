@@ -1,18 +1,18 @@
-### Tuya fingerbot demo
+### Tuya Fingerbot Demo
 
-Tuya fingerbot demo for android
+This topic describes the Tuya Fingerbot demo for Android.
 
-### Introduction
+### Overview
 
-The Tuya Finger Robot demo is based on the Tuya Home SDK and has improved the finger robot control panel, to show developers the control methods of specific devices, so that developers can learn from it to complete their own app development faster. It includes the following points:
+The Tuya Fingerbot demo has improved the Fingerbot control panel based on the Tuya IoT App SDK. The demo shows the control methods of specific devices, so you can develop your app faster. It includes the following points:
 
-- *Acquisition of equipment initial data*
-- *Data issued, the modified dps informations are sent to the device after the operation in control panel, so that the device can take corresponding actions*
-- *Data update, the panel will be updated according to the dp point changed after the device takes the corresponding action*
+- *Get initial data of the devices*
+- *Send the data: Operate on the control panel, and send the modified DP information to the devices, so that the devices act accordingly.*
+- *Update the data: After the devices act, the panel will be updated according to the DP changes.*
 
-### Get Started
+### Get started
 
-- Clone code from git
+- Clone code from GitHub
 
 - [Preparation for Integration](https://developer.tuya.com/en/docs/app-development/android-app-sdk/preparation?id=Ka7mqlxh7vgi9)
 
@@ -20,20 +20,18 @@ The Tuya Finger Robot demo is based on the Tuya Home SDK and has improved the fi
 
 - [SDK Features](https://developer.tuya.com/en/docs/app-development/android-app-sdk/featureoverview?id=Ka69nt97vtsfu)
 
-### Documentation / API Reference / Tutorials / Sample Code
+### Documentation/API reference/Tutorials/Sample code
 
-![F8FC4737660650B0039B943C145938ED](https://images.tuyacn.com/app/tonghui/sample/finger/4.png)
+![Tuya Smart](https://images.tuyacn.com/app/tonghui/sample/finger/4.png)
 
-![企业微信截图_ed736bd9-c803-41d3-ad8b-5b41842869a2](https://images.tuyacn.com/app/tonghui/sample/finger/1.jpg)
+![Fingerbot](https://images.tuyacn.com/app/tonghui/sample/finger/1.jpg)
 
-For more Documentation, Tutorials, API Reference Doc, please check:
+For more documentation, tutorials, and API reference, see [API Reference](https://tuyainc.github.io/tuya-home-android-sdk-api-reference/index.html)
 
-Tuya Home iOS SDK API Reference Doc: [doc support](https://tuyainc.github.io/tuya-home-android-sdk-api-reference/index.html)
+### Issue feedback
 
-### Issue Feedback
-
-- You can provide feedback on your issue via **Github Issue** or [Technical Ticket](https://service.console.tuya.com).
+- Provide feedback on your issue via **Github Issue** or [Technical Ticket](https://service.console.tuya.com).
 
 ### License
 
-Tuya Android Home SDK Sample is available under the MIT license. Please see the [LICENSE](https://registry.code.tuya-inc.top/TuyaAppDeveloper/sample/android-sample-template-java/blob/master/LICENSE) file for more info.
+Tuya IoT App SDK Sample for Android is available under the MIT license. For more information, see the [LICENSE](https://registry.code.tuya-inc.top/TuyaAppDeveloper/sample/android-sample-template-java/blob/master/LICENSE) file.
